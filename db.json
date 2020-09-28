@@ -1,0 +1,39 @@
+{
+  "routing": [
+    {
+      "RURI": 34915552345,
+      "PBXIP": "fakedomain1",
+      "comment": "PBX A (Madrid)"
+    },
+    {
+      "RURI": 34915552346,
+      "PBXIP": "fakedomain1",
+      "sip_response_code": 503,
+      "comment": "PBX A (Madrid)"
+    },
+    {
+      "RURI": 34915552347,
+      "PBXIP": "fakedomain1",
+      "sip_response_code": "503",
+      "comment": "PBX A (Madrid)"
+    },
+    {
+      "RURI": 34965552345,
+      "PBXIP": "fakedomain2",
+      "comment": "PBX B (Alicante)"
+    },
+    {
+      "RURI": 349575552345,
+      "PBXIP": "fakedomain3",
+      "comment": "PBX C (Cordoba)"
+    },
+    {
+      "RURI": 34955552345,
+      "PBXIP": "fakedomain4",
+      "comment": "PBX D (Malaga/Sevilla)"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
